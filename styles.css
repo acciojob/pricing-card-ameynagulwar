@@ -1,5 +1,7 @@
 /*  your css code here. If applicable */
-.btn{
+button{
 	color: white;
 	background-color: red;
+	border: 2px solid red;
+    border-radius: 25px;
 }
